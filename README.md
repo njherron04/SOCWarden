@@ -1,39 +1,39 @@
-# WardenSOC 👮‍♂️
+# SOCWarden 🛡️
 
-**Your personal Security Operations Center and learning assistant.**
+**A personal Security Operations Center for monitoring and analyzing system activity.**
 
-WardenSOC is a **home-lab–friendly SOC tool** designed to help students, developers, and cybersecurity enthusiasts learn and practice real-world security monitoring. It:
+SOCWarden helps users keep track of system and network activity in real-time, detect suspicious behavior, and understand security events through clear explanations and guided responses.  
 
-- Collects real-time logs and system/network activity from your machine  
-- Detects suspicious behavior and security events  
-- Provides **AI-powered explanations** in plain language  
-- Offers **pre-planned response playbooks** to safely react to incidents  
-- Visualizes activity with an intuitive dashboard  
+Key capabilities:
 
-Fully **offline and privacy-respecting**, WardenSOC is built for **hands-on learning**, helping you understand security operations without complex enterprise setups.
+- Monitor logs and network activity on your machine  
+- Detect unusual or suspicious behavior  
+- Provide explanations and context for security events  
+- Offer pre-planned response actions for safe experimentation  
+- Visualize activity through an intuitive dashboard  
+
+SOCWarden is **offline-first and privacy-conscious**, giving you practical insights without exposing your data to external services.  
 
 ---
 
 ## 🚀 Features
 
-- **Real-Time Monitoring:** Keep an eye on your system and network activity as it happens  
-- **Suspicious Activity Detection:** Alerts you to potential threats or anomalies  
-- **AI Explanations:** Understand the “what” and “why” behind security events  
-- **Response Playbooks:** Safely practice mitigation and response actions  
-- **Visual Dashboard:** Easy-to-read activity timeline for quick insights  
+- **Real-Time Monitoring:** Track system and network activity as it happens  
+- **Event Analysis:** Understand the nature and context of suspicious events  
+- **Response Guidance:** Pre-planned actions to respond safely to incidents  
+- **Visual Dashboard:** Quick, clear insights into activity trends and alerts  
+- **Optional Sandbox Mode:** Test scenarios safely without affecting your system  
 
 ---
 
-## 🛠️ Tech Stack
+## 🏗️ Tech Stack
 
 - **Languages:** Python, C#  
 - **Systems:** Windows, Linux  
-- **Tools:** Git, Docker (optional), AI integration (local models)  
+- **Tools:** Git, Docker (optional), local AI modules  
 
 ---
 
-## 🏗️ Getting Started
+## 📌 License
 
-1. Clone this repository:  
-```bash
-git clone https://github.com/yourusername/WardenSOC.git
+This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
