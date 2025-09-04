@@ -4,7 +4,8 @@
 
 SOCWarden helps users keep track of system and network activity in real-time, detect suspicious behavior, and understand security events through clear explanations and guided responses.  
 
-![Alt text](socwarden-high-resolution-logo.png)
+<img src="socwarden-high-resolution-logo.png" alt="SOCWarden Dashboard" width="350"/>
+
 
 Key capabilities:
 
