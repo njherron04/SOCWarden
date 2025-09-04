@@ -131,6 +131,7 @@ def list_ports_cross(use_sudo=False):
 
     return []
 
+
 def main():
     ap = argparse.ArgumentParser(description="Port grabber with macOS-friendly fallback")
     ap.add_argument("--json", action="store_true", help="JSON output")
