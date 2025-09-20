@@ -14,7 +14,6 @@ def tail_f(path: Path, sleep: float = 0.25):
             else:
                 time.sleep(sleep)
 
-
 if __name__ == "__main__":
     p = argparse.ArgumentParser(description="Minimal tail -f")
     p.add_argument("file", type=Path, help="Path to log file")
